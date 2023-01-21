@@ -42,22 +42,28 @@ Different libraries including Pandas, Numpy, Seaborn and matplotlib were install
 ## 4.0 Answering The Questions 
 Visualiztionof the data for better insight were used.
 
-### 4.1 Which Industry received the highest funding? image.png
+### 4.1 Which Industry received the highest funding?
+![image](https://user-images.githubusercontent.com/120388341/213874452-b6f12159-dd64-4261-b494-0d0c5915dbb9.png)
 From the graph, FinTech topped as the Industry that received the highest startup funding
 
-### 4.2 Is there a relationship between the Age of Company and Amount of funding sourced? image.png
+### 4.2 Is there a relationship between the Age of Company and Amount of funding sourced? 
+![image](https://user-images.githubusercontent.com/120388341/213874508-b1ec2fa6-6197-4d09-abf8-37ba056de49c.png)
 Companies founded in the year 2015 received more funding followed by 2020. It also decreased in 2021. Search Investor behaviour could be based on the type of industry the startup found themselves but not necesarily their age.
 
-### 4.3 Which investors give the highest funding? image.png
+### 4.3 Which investors give the highest funding? 
+![image](https://user-images.githubusercontent.com/120388341/213874682-59117c03-cb51-4e04-bae9-79fd34474cc4.png)
 Inflection point ventures is a leading investor in startups in India the graph.
 
-### 4.4 Is location a factor in sourcing funding? image.png
+### 4.4 Is location a factor in sourcing funding?
+![image](https://user-images.githubusercontent.com/120388341/213874703-ad7d0da3-3572-4f5d-b59e-eae18878ea8f.png)
 It is very obvious that the location of a startup in India places a vital role in the amount a startup receives and the number of investors willing to fund in the startup. Investors prefer to fund startups in Bangalore followed by Mumbai.
 
-### 4.5 Which type of funding is mostly accessed? image.png
+### 4.5 Which type of funding is mostly accessed? 
+![image](https://user-images.githubusercontent.com/120388341/213874720-184b5d42-a92c-40c9-9b70-db35a0a09933.png)
 Startups most often accessed seed funds followed by Series A funds as shown by the graph
 
-### 4.6 Which sector attract more investors image.png
+### 4.6 Which sector attracts more investors?
+![image](https://user-images.githubusercontent.com/120388341/213874733-06e844d6-a769-4d63-9e59-288b9df45958.png)
 Investors are mostly attracted to funding the FinTech industry which is the financial sector whiles EdTech which is the educational sector follow second.
 
 ##5.0 Conclusion and Recommendation 
