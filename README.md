@@ -72,11 +72,11 @@ Startups most often accessed seed funds followed by Series A funds as shown by t
 
 Investors are mostly attracted to funding the FinTech industry which is the financial sector whiles EdTech which is the educational sector follow second.
 
-##5.0 Conclusion and Recommendation 
+## 5.0 Conclusion and Recommendation 
 The final part deals with the findings and recommendations for future decision making
 
-###5.1 Conclusion 
+### 5.1 Conclusion 
 From our findings, we accept the Alternative Hypothesis. FinTech received the highest sourced amount followed by EdTech
 
-###5.2 Recommendation 
+### 5.2 Recommendation 
 Based on the analysis done on the Indian startup funding, it very pruduent for a startup should consider the FinTech, EdTech and Retail sectors and also should Bangalore, Mumbai and Gurugram and location for their business.
